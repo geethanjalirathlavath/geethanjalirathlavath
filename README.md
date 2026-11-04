@@ -1,7 +1,7 @@
 # Hi, I'm Geethanjali Rathlavath
 
 I'm a **Healthcare Data Analyst** with 4+ years of experience working with medical and pharmacy claims, member
-eligibility, provider network, and utilization data. I'm currently a Data Analyst at **Cigna Healthcare**.
+eligibility, provider network, and utilization data.
 
 Most of my work sits between the data and the decision: finding out *why* a cost moved or a claim was denied,
 building the SQL and Power BI reporting that answers it, and reconciling every figure before it reaches a
